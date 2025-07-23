@@ -5,7 +5,7 @@
 #define DRILL_CANADIAN	"canadian"
 
 //Chef
-/obj/item/clothing/head/utility/chefhat
+/obj/item/clothing/head/utility/chefhat // he dum
 	name = "chef's hat"
 	item_state = "chefhat"
 	icon_state = "chef"
